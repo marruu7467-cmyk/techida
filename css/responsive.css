@@ -1,0 +1,499 @@
+@media screen and (max-width: 768px) {
+    .logo {
+        width: 30% !important;
+    }
+
+    .sec-col-2 h2 {
+        font-size: 35px !important;
+    }
+
+    .sec-col-2 p {
+        font-size: 16px;
+    }
+
+    .ul1 li a {
+        font-size: 18px;
+    }
+
+    .join {
+        font-size: 16px;
+    }
+
+    .sec-col-2 a {
+        font-size: 16px;
+    }
+
+    .sec-5 {
+        margin-top: 0%;
+    }
+
+    .sec-4 h3 {
+        font-size: 35px;
+    }
+
+    .sec-5 h2 {
+        font-size: 32px;
+    }
+
+    .sec-5 p {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .sec-col-5 h2 {
+        font-size: 18px;
+    }
+
+    .section-6 h2,
+    .section-8 h3,
+    .section-9 h3,
+    .section-12 h3 {
+        font-size: 33px;
+    }
+
+    .section-6 p,
+    .section-3 p,
+    .section-8 p,
+    .section-12 p {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .section-7 h3 {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .section-3 h3 {
+        font-size: 35px;
+    }
+
+    .sec-3 h4,
+    .sec-8 h2,
+    .sec14 h2 {
+        font-size: 20px;
+    }
+
+    .sec-8 {
+        margin-top: 8px;
+    }
+
+    .veiw {
+        padding: 5px 99px;
+    }
+
+    .box-3 li a {
+        font-size: 15px;
+    }
+
+    .section-9 a {
+        font-size: 17px;
+    }
+
+    .sec-12,
+    .sec-13,
+    .sec15 {
+        margin-top: 8%;
+    }
+
+    .section-13 h3,
+    .section-14 h3,
+    .section-15 h3,
+    .section-16 h3,
+    .section-17 h3 {
+        font-size: 35px;
+    }
+
+    .section-13 p,
+    .section-14 p,
+    .section-15 p,
+    .section-16 p,
+    .section-17 p {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .ul14 li i {
+        font-size: 1.5rem;
+    }
+
+    .ul15 li a {
+        font-size: 13px;
+    }
+
+    .ul15 li a i {
+        font-size: 17px;
+    }
+
+    .sec-15 h2 {
+        font-size: 23px;
+        line-height: 40px;
+    }
+
+    .text-1,
+    .text-2,
+    .text-3,
+    .text-4 {
+        margin-top: 4px;
+    }
+
+    .join,
+    .join2,
+    .join31 {
+        font-size: 0.9em !important;
+    }
+
+
+    .sec-col-5 i {
+        font-size: 32px;
+    }
+
+    .sec-col-5 h2 {
+        font-size: 16px !important;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .sec-col-2 h2 {
+        font-size: 26px !important;
+    }
+
+    .sec-col-2 p {
+        font-size: 14px;
+    }
+
+    .section-6 p,
+    .section-3 p,
+    .section-8 p,
+    .section-12 p {
+        font-size: 14px;
+    }
+
+    .sec-4 h3 {
+        font-size: 30px;
+    }
+
+    .sec-4 p {
+        line-height: 23px;
+        font-size: 11px;
+    }
+
+    .sec-col-2 p {
+        line-height: 23px;
+    }
+
+    .veiw {
+        padding: 8px 183px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .sec-col-2 h2 {
+        line-height: 43px;
+        font-size: 29px !important;
+    }
+
+    .sec-col-2 p {
+        font-size: 11px;
+    }
+
+    .section-3 h3 {
+        font-size: 30px;
+    }
+
+    .section-6 p,
+    .section-3 p,
+    .section-8 p,
+    .section-12 p {
+        font-size: 14px;
+    }
+
+    .sec-3 p {
+        line-height: 26px;
+        font-size: 13px;
+    }
+
+    .sec-4 h3 {
+        font-size: 28px;
+    }
+
+    .sec-5 p {
+        font-size: 13px;
+    }
+
+    .section-6 h2,
+    .section-8 h3,
+    .section-9 h3,
+    .section-12 h3 {
+        font-size: 29px;
+    }
+
+    .veiw {
+        padding: 6px 138px;
+    }
+
+    .cc2 {
+        width: 33%;
+        margin-top: 5%;
+    }
+
+    .section-13 p,
+    .section-14 p,
+    .section-15 p,
+    .section-16 p,
+    .section-17 p {
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    .section-13 h3,
+    .section-14 h3,
+    .section-15 h3,
+    .section-16 h3,
+    .section-17 h3 {
+        font-size: 28px;
+    }
+
+    .ul17 li h3 {
+        font-size: 19px;
+    }
+
+    .section-19 span {
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width:360px) {
+    .logo {
+        width: 40% !important;
+    }
+
+    .sec-col-2 h2 {
+        line-height: 27px;
+        font-size: 22px !important;
+    }
+
+    .join,
+    .join2,
+    .join31 {
+        font-size: 0.8em !important;
+    }
+
+    .section-3 h3 {
+        font-size: 25px;
+    }
+
+    .section-6 p,
+    .section-3 p,
+    .section-8 p,
+    .section-12 p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .sec-4 h3 {
+        font-size: 20px;
+    }
+
+    .sec-5 h2 {
+        font-size: 21px;
+    }
+
+    .section-6 h2,
+    .section-8 h3,
+    .section-9 h3,
+    .section-12 h3 {
+        font-size: 21px;
+    }
+
+    .sec-8 p {
+        line-height: 23px;
+        font-size: 12px;
+    }
+
+    .sec-8 h2 {
+        font-size: 18px;
+    }
+
+    .veiw {
+        padding: 6px 79px;
+    }
+
+    .box-3 li a {
+        font-size: 13px;
+    }
+
+    .section-13 h3 {
+        font-size: 25px;
+    }
+
+    .ul14 li i {
+        font-size: 1.2em;
+    }
+
+    .sec14 h3 {
+        font-size: 14px;
+    }
+
+    .para1,
+    .para2 {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .sec-15 h2 {
+        font-size: 20px;
+        line-height: 33px;
+    }
+
+    .ul15 li a {
+        font-size: 11px;
+    }
+
+    .ul17 li h3 {
+        font-size: 13px;
+    }
+
+    .ul17 li h3 i {
+        font-size: 24px;
+    }
+
+    .sec-col-19 h3 {
+        font-size: 11px;
+    }
+
+    .section-19 span {
+        font-size: 11px;
+    }
+
+    .section-19 h2 {
+        font-size: 15px;
+    }
+
+    .sec-18 h2 {
+        font-size: 25px;
+    }
+
+    .sec-18 ul li h3 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .section-3 h3 {
+        font-size: 22px;
+    }
+
+    .section-6 p,
+    .section-3 p,
+    .section-8 p,
+    .section-12 p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .sec-3 p {
+        line-height: 20px;
+        font-size: 11px;
+    }
+
+    .more {
+        font-size: 17px;
+    }
+
+    .sec-5 h2 {
+        font-size: 18px;
+    }
+
+    .sec-4 h3 {
+        font-size: 18px;
+    }
+
+    .sec-4 p {
+        line-height: 20px;
+        font-size: 10px;
+    }
+
+    .sec-5 p {
+        line-height: 20px;
+        font-size: 10px;
+    }
+
+    .sec-col-5 h2 {
+        font-size: 14px !important;
+    }
+
+    .sec-col-5 i {
+        font-size: 30px;
+    }
+
+    .section-6 h2,
+    .section-8 h3,
+    .section-9 h3,
+    .section-12 h3 {
+        font-size: 19px;
+    }
+
+    .sec-6 h3,
+    .sec-6 h4 {
+        font-size: 14px;
+    }
+
+    .veiw {
+        padding: 6px 66px;
+    }
+
+    .box-3 li a {
+        font-size: 11px;
+    }
+
+    .sec-12 h3 {
+        font-size: 45px;
+    }
+
+
+    .section-13 h3 {
+        font-size: 22px;
+    }
+
+    .sec13-1 img {
+        width: 22.3%;
+        height: 55px;
+    }
+
+    .section-13 h2,
+    .section-14 h2,
+    .section-15 h2,
+    .section-16 h2,
+    .section-17 h2 {
+        font-size: 14px;
+    }
+
+      .sec-15 h2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+    .ul15 li a {
+    font-size: 8px;
+  }
+
+  .sec-15 a {
+  font-size: 16px;
+  }
+
+    .ul17 li h3 {
+    font-size: 11px;
+  }
+
+   .ul17 li h3 i {
+    font-size: 22px;
+  }
+
+  .p-3{
+    font-size: 13px;
+    line-height: 22px;
+  }
+  
+}
